@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "MenuDb": "Data Source= MenuPrueba.db"
+  }
+}

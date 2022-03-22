@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VY.MenuActions.Dtos\VY.MenuActions.Dtos.csproj" />
+    <ProjectReference Include="..\VY.MenuActions.XCutting.Contracts\VY.MenuActions.XCutting.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

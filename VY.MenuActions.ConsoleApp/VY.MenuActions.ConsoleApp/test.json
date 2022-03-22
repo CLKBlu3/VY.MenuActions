@@ -1,0 +1,95 @@
+﻿[
+  {
+    "Name": "Administration",
+    "Action": "11",
+    "Items": [
+      {
+        "Name": "User Admin",
+        "Action": "111",
+        "Items": [
+          {
+            "Name": "Create User",
+            "Action": "1111",
+            "Items": []
+          },
+          {
+            "Name": "Edit User",
+            "Action": "1112",
+            "Items": []
+          }
+        ]
+      },
+      {
+        "Name": "Product Admin",
+        "Action": "112",
+        "Items": [
+          {
+            "Name": "All Products",
+            "Action": "1121",
+            "Items": [
+              {
+                "Name": "My Products",
+                "Action": "11211",
+                "Items": []
+              }
+            ]
+          },
+          {
+            "Name": "Create Product",
+            "Action": "1122",
+            "Items": []
+          }
+        ]
+      },
+      {
+        "Name": "Order Admin",
+        "Action": "113",
+        "Items": [
+          {
+            "Name": "Order Reports",
+            "Action": "1131",
+            "Items": [
+              {
+                "Name": "Audit Reports",
+                "Action": "11311",
+                "Items": [
+                  {
+                    "Name": "Update Orders",
+                    "Action": "113111",
+                    "Items": []
+                  },
+                  {
+                    "Name": "Create Orders",
+                    "Action": "113112",
+                    "Items": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Name": "Create Order",
+            "Action": "1132",
+            "Items": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Reports",
+    "Action": "12",
+    "Items": [
+      {
+        "Name": "Win Tech Report",
+        "Action": "121",
+        "Items": []
+      },
+      {
+        "Name": "Microsoft Report",
+        "Action": "122",
+        "Items": []
+      }
+    ]
+  }
+]
